@@ -51,3 +51,24 @@ MonoBehaviour:
       id: 0
       description: None
       axisConstraint: 0
+  - localizationKey: 
+    keyword: Gradient On
+    keyCode: 280
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Gradient Off
+    keyCode: 281
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Clear
+    keyCode: 99
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
