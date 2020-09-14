@@ -5,7 +5,7 @@ An augmented reality application to assist visually impaired people with obstacl
 ## Requirements
 This project uses MRTK v2.4.0 and Unity 2019.4.6f1 in conjunction with the HoloLens 2 spatial mapping capabilities.
 
-You can find informatoin on the Mixed Reality Toolkit here: 
+You can find information on the Mixed Reality Toolkit here: 
 
 https://microsoft.github.io/MixedRealityToolkit-Unity/README.html
 
@@ -16,6 +16,7 @@ https://microsoft.github.io/MixedRealityToolkit-Unity/README.html
 2. Open Unity and the Spatial Awareness scene.
 3. Build and deploy to a HoloLens 2 device.
 
+Note that the Mesh Coloration settings ("first band" distance and "band width" distance) can be adjusted on the Green Luminance material to allow coloration at further distances.
 
 ## Using the App
 
