@@ -31,6 +31,9 @@ With the mesh on, using the voice command **place guidelines** will cause the gu
 
 These are intended to alert a user to obstacles that are not in the center of their vision. Future versions will experiment with smart placement and rendering.
 
+## Known Errors
+Rendering errors sometimes cause objects such as the mesh or the text on the description placard to render only on the left eye of the HoloLens. This can mean objects such as the guidelines or description placard can be visible in one eye but occluded in the other, and can cause difficulties in capturing photos and videos using the HoloLens built in camera. The cause is currently unknown.
+
 
 ## Acknowledgements
 This project utilizes code from the following:
